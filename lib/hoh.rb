@@ -30,6 +30,8 @@
 #   sub_category: nil
 # }
 
+PORTION_1={}
+
 def naming_system
   # Remember:
   #  Kingdom
