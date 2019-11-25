@@ -50,9 +50,19 @@ PORTION_1 = {
       {"Class",
         {"Order",
           {"Family",
-     }
-   }
- }
+            {"Genus",
+              {"Species",
+                nil
+              }
+            }
+          }
+        }
+      }
+    }
+  }  
+     
+   
+ 
  
 return PORTION_1
 
