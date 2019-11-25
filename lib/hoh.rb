@@ -45,20 +45,6 @@ def naming_system
   # HoH all the way to Species!
 
 PORTION_1 = {
-  "Kingdom",
-    {"Phylum",
-      {"Class",
-        {"Order",
-          {"Family",
-            {"Genus",
-              {"Species",
-                nil
-              }
-            }
-          }
-        }
-      }
-    }
   }  
      
    
